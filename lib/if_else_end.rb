@@ -1,4 +1,3 @@
-# Write your solution here
 
 currentSeconds = Time.now.to_i
 
